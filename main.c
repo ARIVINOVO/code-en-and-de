@@ -7,6 +7,7 @@ int main()
     printf("输入q!退出\n");
     while (1)
     {
+        setbuf(stdin,NULL);
         printf("请选择功能：");
         char n[5],str[100];
         scanf("%s", n);

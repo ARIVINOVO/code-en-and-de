@@ -8,7 +8,7 @@ void caesar(char*);
 void uncaesar(char*);        //凯撒密码加解密
 
 void morse(char*);
-void unmorse(char*);         //莫斯密码加解密
+void unmorse(char*);         //摩斯密码加解密
 
 void URL(char*);
 void UURL(char*);         //URL编解码
